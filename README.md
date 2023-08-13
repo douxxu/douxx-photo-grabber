@@ -10,4 +10,4 @@ To work properly, the script requires:
 i love u
 - Douxx
  
-help server: https://discord.gg/YC9fZYknmB
+help server (fr): https://discord.gg/y4XEttCZb7
